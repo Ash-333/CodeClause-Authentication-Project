@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeCluase</string>
+    <string name="facebook_app_id">757248686273830</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">dadeb854c977975a94d5259d104b7804</string>
+    <string name="default_web_client_id">725798655193-iv84o1ljni9l4ef1acakmdg20g9tq9md.apps.googleusercontent.com</string>
+</resources>

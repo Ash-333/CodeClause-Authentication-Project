@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725798655193",
+    "project_id": "codecluase",
+    "storage_bucket": "codecluase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725798655193:android:6f20b59f88f345c0709ac8",
+        "android_client_info": {
+          "package_name": "com.example.codecluase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ycMZImiFimXLNGc8ufLss7G_f_aHpkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
